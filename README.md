@@ -9,7 +9,7 @@ So I designed a simple focus rig that uses a stepper motor to move the
 focus ring on the laser while I watch the result via a webcam behind a
 filter.
 
-![GitHub Logo](/laser-focus-rig.jpg)
+![Laser Focus Rig Image](/laser-focus-rig.jpg)
 
 I no longer have the entire setup or the code I used to control the
 stepper, but all you need is an arduino, a weldig glass, and somewhere
