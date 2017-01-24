@@ -19,3 +19,8 @@ easier time judging how narrow the focus dot is.  Also beware that
 diode lasers do not produce round beams.  They are somewhat
 elliptical.
 
+# WARNING
+
+**Please be careful with lasers.  They can be extremely nasty.  If you
+hurt yourself or someone else using this design, it is your fault and
+your fault alone.  Don't be an idiot.**
